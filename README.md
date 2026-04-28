@@ -1,5 +1,7 @@
 # Meta Ad Performance Dashboard (Facebook & Instagram)
 
+![Texto alternativo](/Captura.png)
+
 ## Project Overview
 This project involves the development of a comprehensive data analysis ecosystem using **Power BI** to monitor and optimize advertising campaigns across Meta platforms. The primary objective is to transform raw digital marketing data into strategic insights to evaluate ad effectiveness, user behavior, and return on investment.
 
